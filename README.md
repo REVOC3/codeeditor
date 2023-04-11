@@ -1,2 +1,2 @@
 # codeeditor
-code editor
+code editor for like anything
